@@ -1,0 +1,14 @@
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\obj\Debug\CarParkManager.csprojResolveAssemblyReference.cache
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\obj\Debug\CarParkManager.csproj.CoreCompileInputs.cache
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\bin\Debug\CarParkManager.exe.config
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\bin\Debug\CarParkManager.exe
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\bin\Debug\CarParkManager.pdb
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\obj\Debug\CarParkManager.exe
+C:\Users\leapfrog\source\repos\ConsoleApp2\CarParkManager\obj\Debug\CarParkManager.pdb
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\bin\Debug\CarParkManager.exe.config
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\bin\Debug\CarParkManager.exe
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\bin\Debug\CarParkManager.pdb
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\obj\Debug\CarParkManager.csprojResolveAssemblyReference.cache
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\obj\Debug\CarParkManager.csproj.CoreCompileInputs.cache
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\obj\Debug\CarParkManager.exe
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\CarParkManager\obj\Debug\CarParkManager.pdb

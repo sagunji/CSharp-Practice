@@ -1,0 +1,14 @@
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NumberSum.csprojResolveAssemblyReference.cache
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NumberSum.csproj.CoreCompileInputs.cache
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\leapfrog\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\bin\Debug\ConsoleApp2.exe.config
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\bin\Debug\ConsoleApp2.exe
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\bin\Debug\ConsoleApp2.pdb
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\obj\Debug\NumberSum.csprojResolveAssemblyReference.cache
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\obj\Debug\NumberSum.csproj.CoreCompileInputs.cache
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\obj\Debug\ConsoleApp2.exe
+C:\Users\leapfrog\source\repos\StudentName_ITC518_Assignment2\NumberSum\obj\Debug\ConsoleApp2.pdb
